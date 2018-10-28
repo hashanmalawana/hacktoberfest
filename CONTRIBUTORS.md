@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [hashanmalawana](https://github.com/hashanmalawana)
+- Place: Kadawatha, Sri Lanka
+- Bio: Web developer PHP and Python
+- Github: [hashanmalawana](https://github.com/hashanmalawana)
